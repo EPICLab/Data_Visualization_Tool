@@ -1,0 +1,532 @@
+surveyee,Major,year,Score,Question
+s87,CS,1,4,Q1
+s88,CS,1,5,Q1
+s89,CS,1,5,Q1
+s90,CS,2,5,Q1
+s91,Industrial Engineering,4,5,Q1
+s92,CS,2,5,Q1
+s93,ECE,1,5,Q1
+s94,ECE,2,5,Q1
+s95,CS,1,5,Q1
+s96,CS & Phy,1,5,Q1
+s97,CS,1,5,Q1
+s98,CS,1,5,Q1
+s99,Chemical Engineering,2,5,Q1
+s100,CS,2,5,Q1
+s101,CS,3,5,Q1
+s102,CS,1,5,Q1
+s103,CS,1,5,Q1
+s104,Math,1,5,Q1
+s105,CS,1,5,Q1
+s106,,,5,Q1
+s107,ECE,4,4,Q1
+s108,CS,2,4,Q1
+s109,CS,1,5,Q1
+s110,CS,1,5,Q1
+s111,CS,2,5,Q1
+s112,CS,1,5,Q1
+s113,CS,2,5,Q1
+s114,ECE,2,4,Q1
+s115,ECE,2,4,Q1
+s116,ECE,2,5,Q1
+s117,CS,2,5,Q1
+s118,CS,1,5,Q1
+s119,Bioinformatics,1,3,Q1
+s120,ECE,3,5,Q1
+s121,Microbiology,2,,Q1
+s122,ECE,2,5,Q1
+s123,CS,1,4,Q1
+s124,CS,2,5,Q1
+s125,Chemical Engineering,graduate,5,Q1
+s126,CS,2,5,Q1
+s127,Math/Statistics,4,5,Q1
+s128,Math,3,5,Q1
+s129,CS/ Phy,1,5,Q1
+s130,CS,1,4,Q1
+s131,Geography,Phd,5,Q1
+s134,CS,1,5,Q1
+s135,CS,2019 winter,5,Q1
+s136,CS,2,3,Q1
+s137,CS,2,5,Q1
+s138,CS,2,5,Q1
+s139,ME,1,5,Q1
+s140,ECE,4,5,Q1
+s141,CS,1,2,Q1
+s142,CS,2,5,Q1
+s143,CS,1,3,Q1
+s144,CS,,5,Q1
+s145,CS & Chemistry,,5,Q1
+s146,ECE,3,5,Q1
+s147,CS,2,4,Q1
+s87,CS,1,4,Q2
+s88,CS,1,5,Q2
+s89,CS,1,4,Q2
+s90,CS,2,3,Q2
+s91,Industrial Engineering,4,5,Q2
+s92,CS,2,4,Q2
+s93,ECE,1,5,Q2
+s94,ECE,2,4,Q2
+s95,CS,1,5,Q2
+s96,CS & Phy,1,5,Q2
+s97,CS,1,4,Q2
+s98,CS,1,4,Q2
+s99,Chemical Engineering,2,2.5,Q2
+s100,CS,2,4,Q2
+s101,CS,3,5,Q2
+s102,CS,1,4,Q2
+s103,CS,1,3,Q2
+s104,Math,1,5,Q2
+s105,CS,1,3,Q2
+s106,,,5,Q2
+s107,ECE,4,3,Q2
+s108,CS,2,4,Q2
+s109,CS,1,4,Q2
+s110,CS,1,,Q2
+s111,CS,2,5,Q2
+s112,CS,1,5,Q2
+s113,CS,2,3,Q2
+s114,ECE,2,4,Q2
+s115,ECE,2,4,Q2
+s116,ECE,2,4,Q2
+s117,CS,2,5,Q2
+s118,CS,1,5,Q2
+s119,Bioinformatics,1,3,Q2
+s120,ECE,3,4,Q2
+s121,Microbiology,2,,Q2
+s122,ECE,2,5,Q2
+s123,CS,1,5,Q2
+s124,CS,2,3,Q2
+s125,Chemical Engineering,graduate,3,Q2
+s126,CS,2,4,Q2
+s127,Math/Statistics,4,4,Q2
+s128,Math,3,4,Q2
+s129,CS/ Phy,1,4,Q2
+s130,CS,1,4,Q2
+s131,Geography,Phd,3,Q2
+s134,CS,1,3,Q2
+s135,CS,2019 winter,4,Q2
+s136,CS,2,3,Q2
+s137,CS,2,5,Q2
+s138,CS,2,,Q2
+s139,ME,1,5,Q2
+s140,ECE,4,5,Q2
+s141,CS,1,3,Q2
+s142,CS,2,3,Q2
+s143,CS,1,3,Q2
+s144,CS,,5,Q2
+s145,CS & Chemistry,,5,Q2
+s146,ECE,3,5,Q2
+s147,CS,2,3,Q2
+s87,CS,1,5,Q3
+s88,CS,1,5,Q3
+s89,CS,1,4,Q3
+s90,CS,2,4,Q3
+s91,Industrial Engineering,4,5,Q3
+s92,CS,2,5,Q3
+s93,ECE,1,4,Q3
+s94,ECE,2,4,Q3
+s95,CS,1,5,Q3
+s96,CS & Phy,1,5,Q3
+s97,CS,1,4,Q3
+s98,CS,1,5,Q3
+s99,Chemical Engineering,2,5,Q3
+s100,CS,2,5,Q3
+s101,CS,3,5,Q3
+s102,CS,1,5,Q3
+s103,CS,1,5,Q3
+s104,Math,1,5,Q3
+s105,CS,1,5,Q3
+s106,,,5,Q3
+s107,ECE,4,5,Q3
+s108,CS,2,4,Q3
+s109,CS,1,5,Q3
+s110,CS,1,4,Q3
+s111,CS,2,5,Q3
+s112,CS,1,5,Q3
+s113,CS,2,5,Q3
+s114,ECE,2,5,Q3
+s115,ECE,2,4,Q3
+s116,ECE,2,5,Q3
+s117,CS,2,5,Q3
+s118,CS,1,5,Q3
+s119,Bioinformatics,1,3,Q3
+s120,ECE,3,5,Q3
+s121,Microbiology,2,4,Q3
+s122,ECE,2,5,Q3
+s123,CS,1,5,Q3
+s124,CS,2,5,Q3
+s125,Chemical Engineering,graduate,3,Q3
+s126,CS,2,5,Q3
+s127,Math/Statistics,4,3,Q3
+s128,Math,3,5,Q3
+s129,CS/ Phy,1,5,Q3
+s130,CS,1,5,Q3
+s131,Geography,Phd,3,Q3
+s134,CS,1,4,Q3
+s135,CS,2019 winter,5,Q3
+s136,CS,2,2,Q3
+s137,CS,2,5,Q3
+s138,CS,2,5,Q3
+s139,ME,1,5,Q3
+s140,ECE,4,5,Q3
+s141,CS,1,4,Q3
+s142,CS,2,5,Q3
+s143,CS,1,4,Q3
+s144,CS,,5,Q3
+s145,CS & Chemistry,,5,Q3
+s146,ECE,3,5,Q3
+s147,CS,2,4,Q3
+s87,CS,1,5,Q4
+s88,CS,1,5,Q4
+s89,CS,1,5,Q4
+s90,CS,2,5,Q4
+s91,Industrial Engineering,4,5,Q4
+s92,CS,2,5,Q4
+s93,ECE,1,5,Q4
+s94,ECE,2,4,Q4
+s95,CS,1,5,Q4
+s96,CS & Phy,1,5,Q4
+s97,CS,1,2,Q4
+s98,CS,1,4,Q4
+s99,Chemical Engineering,2,5,Q4
+s100,CS,2,3,Q4
+s101,CS,3,5,Q4
+s102,CS,1,5,Q4
+s103,CS,1,5,Q4
+s104,Math,1,5,Q4
+s105,CS,1,3,Q4
+s106,,,5,Q4
+s107,ECE,4,5,Q4
+s108,CS,2,4,Q4
+s109,CS,1,5,Q4
+s110,CS,1,5,Q4
+s111,CS,2,5,Q4
+s112,CS,1,5,Q4
+s113,CS,2,4,Q4
+s114,ECE,2,4,Q4
+s115,ECE,2,4,Q4
+s116,ECE,2,5,Q4
+s117,CS,2,5,Q4
+s118,CS,1,3,Q4
+s119,Bioinformatics,1,3,Q4
+s120,ECE,3,3,Q4
+s121,Microbiology,2,,Q4
+s122,ECE,2,2,Q4
+s123,CS,1,4,Q4
+s124,CS,2,5,Q4
+s125,Chemical Engineering,graduate,5,Q4
+s126,CS,2,5,Q4
+s127,Math/Statistics,4,5,Q4
+s128,Math,3,5,Q4
+s129,CS/ Phy,1,5,Q4
+s130,CS,1,5,Q4
+s131,Geography,Phd,5,Q4
+s134,CS,1,5,Q4
+s135,CS,2019 winter,5,Q4
+s136,CS,2,3,Q4
+s137,CS,2,5,Q4
+s138,CS,2,5,Q4
+s139,ME,1,3,Q4
+s140,ECE,4,5,Q4
+s141,CS,1,4,Q4
+s142,CS,2,5,Q4
+s143,CS,1,3,Q4
+s144,CS,,5,Q4
+s145,CS & Chemistry,,4,Q4
+s146,ECE,3,3,Q4
+s147,CS,2,4,Q4
+s87,CS,1,3,Q5
+s88,CS,1,5,Q5
+s89,CS,1,5,Q5
+s90,CS,2,5,Q5
+s91,Industrial Engineering,4,5,Q5
+s92,CS,2,5,Q5
+s93,ECE,1,5,Q5
+s94,ECE,2,4,Q5
+s95,CS,1,5,Q5
+s96,CS & Phy,1,5,Q5
+s97,CS,1,3,Q5
+s98,CS,1,3,Q5
+s99,Chemical Engineering,2,5,Q5
+s100,CS,2,4,Q5
+s101,CS,3,5,Q5
+s102,CS,1,4,Q5
+s103,CS,1,5,Q5
+s104,Math,1,5,Q5
+s105,CS,1,3,Q5
+s106,,,5,Q5
+s107,ECE,4,4,Q5
+s108,CS,2,3,Q5
+s109,CS,1,4,Q5
+s110,CS,1,4,Q5
+s111,CS,2,5,Q5
+s112,CS,1,5,Q5
+s113,CS,2,4,Q5
+s114,ECE,2,5,Q5
+s115,ECE,2,4,Q5
+s116,ECE,2,5,Q5
+s117,CS,2,4,Q5
+s118,CS,1,5,Q5
+s119,Bioinformatics,1,3,Q5
+s120,ECE,3,4,Q5
+s121,Microbiology,2,1,Q5
+s122,ECE,2,4,Q5
+s123,CS,1,5,Q5
+s124,CS,2,5,Q5
+s125,Chemical Engineering,graduate,5,Q5
+s126,CS,2,5,Q5
+s127,Math/Statistics,4,3,Q5
+s128,Math,3,5,Q5
+s129,CS/ Phy,1,4,Q5
+s130,CS,1,5,Q5
+s131,Geography,Phd,5,Q5
+s134,CS,1,4,Q5
+s135,CS,2019 winter,4,Q5
+s136,CS,2,3,Q5
+s137,CS,2,5,Q5
+s138,CS,2,5,Q5
+s139,ME,1,3,Q5
+s140,ECE,4,1,Q5
+s141,CS,1,,Q5
+s142,CS,2,5,Q5
+s143,CS,1,4,Q5
+s144,CS,,4,Q5
+s145,CS & Chemistry,,2,Q5
+s146,ECE,3,3,Q5
+s147,CS,2,4,Q5
+s87,CS,1,4,Q6
+s88,CS,1,5,Q6
+s89,CS,1,3,Q6
+s90,CS,2,4,Q6
+s91,Industrial Engineering,4,5,Q6
+s92,CS,2,3,Q6
+s93,ECE,1,5,Q6
+s94,ECE,2,4,Q6
+s95,CS,1,,Q6
+s96,CS & Phy,1,5,Q6
+s97,CS,1,2,Q6
+s98,CS,1,4,Q6
+s99,Chemical Engineering,2,4,Q6
+s100,CS,2,3,Q6
+s101,CS,3,5,Q6
+s102,CS,1,5,Q6
+s103,CS,1,4,Q6
+s104,Math,1,5,Q6
+s105,CS,1,3,Q6
+s106,,,5,Q6
+s107,ECE,4,4,Q6
+s108,CS,2,4,Q6
+s109,CS,1,2,Q6
+s110,CS,1,5,Q6
+s111,CS,2,3,Q6
+s112,CS,1,5,Q6
+s113,CS,2,3,Q6
+s114,ECE,2,4,Q6
+s115,ECE,2,4,Q6
+s116,ECE,2,5,Q6
+s117,CS,2,4,Q6
+s118,CS,1,4,Q6
+s119,Bioinformatics,1,3,Q6
+s120,ECE,3,4,Q6
+s121,Microbiology,2,,Q6
+s122,ECE,2,3,Q6
+s123,CS,1,5,Q6
+s124,CS,2,2,Q6
+s125,Chemical Engineering,graduate,5,Q6
+s126,CS,2,3,Q6
+s127,Math/Statistics,4,3,Q6
+s128,Math,3,4,Q6
+s129,CS/ Phy,1,3,Q6
+s130,CS,1,4,Q6
+s131,Geography,Phd,3,Q6
+s134,CS,1,3,Q6
+s135,CS,2019 winter,5,Q6
+s136,CS,2,3,Q6
+s137,CS,2,5,Q6
+s138,CS,2,5,Q6
+s139,ME,1,4,Q6
+s140,ECE,4,5,Q6
+s141,CS,1,,Q6
+s142,CS,2,4,Q6
+s143,CS,1,4,Q6
+s144,CS,,5,Q6
+s145,CS & Chemistry,,3,Q6
+s146,ECE,3,5,Q6
+s147,CS,2,3,Q6
+s87,CS,1,5,Q7
+s88,CS,1,4,Q7
+s89,CS,1,3,Q7
+s90,CS,2,3,Q7
+s91,Industrial Engineering,4,5,Q7
+s92,CS,2,4,Q7
+s93,ECE,1,5,Q7
+s94,ECE,2,4,Q7
+s95,CS,1,5,Q7
+s96,CS & Phy,1,5,Q7
+s97,CS,1,2,Q7
+s98,CS,1,3,Q7
+s99,Chemical Engineering,2,3,Q7
+s100,CS,2,3,Q7
+s101,CS,3,5,Q7
+s102,CS,1,5,Q7
+s103,CS,1,5,Q7
+s104,Math,1,5,Q7
+s105,CS,1,3,Q7
+s106,,,5,Q7
+s107,ECE,4,4,Q7
+s108,CS,2,4,Q7
+s109,CS,1,4,Q7
+s110,CS,1,,Q7
+s111,CS,2,5,Q7
+s112,CS,1,4,Q7
+s113,CS,2,2,Q7
+s114,ECE,2,3,Q7
+s115,ECE,2,4,Q7
+s116,ECE,2,5,Q7
+s117,CS,2,,Q7
+s118,CS,1,5,Q7
+s119,Bioinformatics,1,3,Q7
+s120,ECE,3,5,Q7
+s121,Microbiology,2,4,Q7
+s122,ECE,2,5,Q7
+s123,CS,1,4,Q7
+s124,CS,2,,Q7
+s125,Chemical Engineering,graduate,5,Q7
+s126,CS,2,3,Q7
+s127,Math/Statistics,4,5,Q7
+s128,Math,3,4,Q7
+s129,CS/ Phy,1,5,Q7
+s130,CS,1,4,Q7
+s131,Geography,Phd,4,Q7
+s134,CS,1,4,Q7
+s135,CS,2019 winter,5,Q7
+s136,CS,2,1,Q7
+s137,CS,2,5,Q7
+s138,CS,2,5,Q7
+s139,ME,1,5,Q7
+s140,ECE,4,5,Q7
+s141,CS,1,,Q7
+s142,CS,2,5,Q7
+s143,CS,1,2,Q7
+s144,CS,,5,Q7
+s145,CS & Chemistry,,4,Q7
+s146,ECE,3,3,Q7
+s147,CS,2,3,Q7
+s87,CS,1,5,Q8
+s88,CS,1,3,Q8
+s89,CS,1,3,Q8
+s90,CS,2,3,Q8
+s91,Industrial Engineering,4,5,Q8
+s92,CS,2,5,Q8
+s93,ECE,1,4,Q8
+s94,ECE,2,4,Q8
+s95,CS,1,5,Q8
+s96,CS & Phy,1,5,Q8
+s97,CS,1,3,Q8
+s98,CS,1,4,Q8
+s99,Chemical Engineering,2,3,Q8
+s100,CS,2,3,Q8
+s101,CS,3,5,Q8
+s102,CS,1,5,Q8
+s103,CS,1,5,Q8
+s104,Math,1,5,Q8
+s105,CS,1,3,Q8
+s106,,,5,Q8
+s107,ECE,4,,Q8
+s108,CS,2,5,Q8
+s109,CS,1,2,Q8
+s110,CS,1,,Q8
+s111,CS,2,5,Q8
+s112,CS,1,5,Q8
+s113,CS,2,2,Q8
+s114,ECE,2,4,Q8
+s115,ECE,2,4,Q8
+s116,ECE,2,5,Q8
+s117,CS,2,4,Q8
+s118,CS,1,5,Q8
+s119,Bioinformatics,1,3,Q8
+s120,ECE,3,2,Q8
+s121,Microbiology,2,3,Q8
+s122,ECE,2,5,Q8
+s123,CS,1,4,Q8
+s124,CS,2,,Q8
+s125,Chemical Engineering,graduate,5,Q8
+s126,CS,2,5,Q8
+s127,Math/Statistics,4,3,Q8
+s128,Math,3,3,Q8
+s129,CS/ Phy,1,5,Q8
+s130,CS,1,4,Q8
+s131,Geography,Phd,3,Q8
+s134,CS,1,3,Q8
+s135,CS,2019 winter,5,Q8
+s136,CS,2,2,Q8
+s137,CS,2,5,Q8
+s138,CS,2,5,Q8
+s139,ME,1,5,Q8
+s140,ECE,4,5,Q8
+s141,CS,1,,Q8
+s142,CS,2,5,Q8
+s143,CS,1,3,Q8
+s144,CS,,5,Q8
+s145,CS & Chemistry,,2,Q8
+s146,ECE,3,3,Q8
+s147,CS,2,3,Q8
+s87,CS,1,5,Q9
+s88,CS,1,4,Q9
+s89,CS,1,5,Q9
+s90,CS,2,4,Q9
+s91,Industrial Engineering,4,5,Q9
+s92,CS,2,3,Q9
+s93,ECE,1,5,Q9
+s94,ECE,2,4,Q9
+s95,CS,1,5,Q9
+s96,CS & Phy,1,5,Q9
+s97,CS,1,2,Q9
+s98,CS,1,5,Q9
+s99,Chemical Engineering,2,5,Q9
+s100,CS,2,5,Q9
+s101,CS,3,5,Q9
+s102,CS,1,5,Q9
+s103,CS,1,5,Q9
+s104,Math,1,5,Q9
+s105,CS,1,5,Q9
+s106,,,5,Q9
+s107,ECE,4,4,Q9
+s108,CS,2,5,Q9
+s109,CS,1,5,Q9
+s110,CS,1,5,Q9
+s111,CS,2,5,Q9
+s112,CS,1,5,Q9
+s113,CS,2,5,Q9
+s114,ECE,2,5,Q9
+s115,ECE,2,4,Q9
+s116,ECE,2,5,Q9
+s117,CS,2,4,Q9
+s118,CS,1,5,Q9
+s119,Bioinformatics,1,3,Q9
+s120,ECE,3,4,Q9
+s121,Microbiology,2,4,Q9
+s122,ECE,2,5,Q9
+s123,CS,1,5,Q9
+s124,CS,2,,Q9
+s125,Chemical Engineering,graduate,5,Q9
+s126,CS,2,5,Q9
+s127,Math/Statistics,4,2,Q9
+s128,Math,3,4,Q9
+s129,CS/ Phy,1,5,Q9
+s130,CS,1,5,Q9
+s131,Geography,Phd,3,Q9
+s134,CS,1,4,Q9
+s135,CS,2019 winter,5,Q9
+s136,CS,2,4,Q9
+s137,CS,2,5,Q9
+s138,CS,2,5,Q9
+s139,ME,1,5,Q9
+s140,ECE,4,3,Q9
+s141,CS,1,,Q9
+s142,CS,2,,Q9
+s143,CS,1,3,Q9
+s144,CS,,5,Q9
+s145,CS & Chemistry,,1,Q9
+s146,ECE,3,3,Q9
+s147,CS,2,3,Q9
